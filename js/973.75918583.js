@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkecontract_frontend"]=self["webpackChunkecontract_frontend"]||[]).push([[973],{8973:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var r=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,t=n._self._c;return t("div",{attrs:{id:"home"}},[t("h1",[n._v("Dashboard Index")])])}],c=e(1001),s={},a=(0,c.Z)(s,r,u,!1,null,null,null),f=a.exports}}]);
+//# sourceMappingURL=973.75918583.js.map
